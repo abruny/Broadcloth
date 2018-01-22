@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Solution Documentation", "DM Solution Documentation", "{3663A198-D610-4564-8B2F-38ADC0E30D01}"
+	ProjectSection(SolutionItems) = preProject
+		..\DM Solution Documentation\Broadcloth DM Star Schema.vsdx = ..\DM Solution Documentation\Broadcloth DM Star Schema.vsdx
+		..\DM Solution Documentation\Broadcloth Solution Documentation.docx = ..\DM Solution Documentation\Broadcloth Solution Documentation.docx
+		..\DM Solution Documentation\Broadcloth Solution Workbook.xlsx = ..\DM Solution Documentation\Broadcloth Solution Workbook.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
